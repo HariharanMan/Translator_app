@@ -13,16 +13,13 @@ I am **Hariharan**, passionate about AI, Machine Learning, and building innovati
 ## 🔥 My Profile Stats
 
 ### 🌟 Current Projects
-- 🏗️ **C3 Square**: A construction app offering e-commerce, AI chatbots, and budget tracking.
 - 📈 **Stock Prediction App**: Using ML to forecast stock prices and analyze market trends.
-- 🚗 **Smart Charging Meets Instant Safety**: Combining EV fast charging with safety alert systems.
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariharan&show_icons=true&theme=radical)
 
 ### 💡 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C4CC.svg?logo=scikitlearn&logoColor=white)
 
 ### 📈 My Activity
